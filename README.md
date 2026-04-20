@@ -50,6 +50,8 @@ public class Shivam {
 ### `> statistics`
 
 <div align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamSinghRajawat&theme=tokyonight" alt="Contribution Graph" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamSinghRajawat&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" alt="Github Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSinghRajawat&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" alt="Top Langs" />
